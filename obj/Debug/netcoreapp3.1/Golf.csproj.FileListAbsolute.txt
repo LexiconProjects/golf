@@ -1,0 +1,13 @@
+F:\Lexicon offline Projects\Golf\bin\Debug\netcoreapp3.1\Golf.exe
+F:\Lexicon offline Projects\Golf\bin\Debug\netcoreapp3.1\Golf.deps.json
+F:\Lexicon offline Projects\Golf\bin\Debug\netcoreapp3.1\Golf.runtimeconfig.json
+F:\Lexicon offline Projects\Golf\bin\Debug\netcoreapp3.1\Golf.runtimeconfig.dev.json
+F:\Lexicon offline Projects\Golf\bin\Debug\netcoreapp3.1\Golf.dll
+F:\Lexicon offline Projects\Golf\bin\Debug\netcoreapp3.1\Golf.pdb
+F:\Lexicon offline Projects\Golf\obj\Debug\netcoreapp3.1\Golf.csprojAssemblyReference.cache
+F:\Lexicon offline Projects\Golf\obj\Debug\netcoreapp3.1\Golf.AssemblyInfoInputs.cache
+F:\Lexicon offline Projects\Golf\obj\Debug\netcoreapp3.1\Golf.AssemblyInfo.cs
+F:\Lexicon offline Projects\Golf\obj\Debug\netcoreapp3.1\Golf.csproj.CoreCompileInputs.cache
+F:\Lexicon offline Projects\Golf\obj\Debug\netcoreapp3.1\Golf.dll
+F:\Lexicon offline Projects\Golf\obj\Debug\netcoreapp3.1\Golf.pdb
+F:\Lexicon offline Projects\Golf\obj\Debug\netcoreapp3.1\Golf.genruntimeconfig.cache
